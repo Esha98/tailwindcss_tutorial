@@ -1,0 +1,23 @@
+{
+  "name": "first_tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esha98/first_tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esha98/first_tailwindcss/issues"
+  },
+  "homepage": "https://github.com/Esha98/first_tailwindcss#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
